@@ -15,4 +15,4 @@ Cordova плагин для Яндекс Метрики 2.4
 3. cordova plugin add https://github.com/MrFlox/CordovaAppMetrica.git
 4. ionic build ios
 5. добавить плагины в Xcode  (libc++, libsqlite3, libz)
-полный списко плагинов тут https://tech.yandex.ru/metrica-mobile-sdk/doc/mobile-sdk-dg/tasks/ios-quickstart-docpage/
+полный список плагинов тут https://tech.yandex.ru/metrica-mobile-sdk/doc/mobile-sdk-dg/tasks/ios-quickstart-docpage/
